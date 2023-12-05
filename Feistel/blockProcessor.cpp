@@ -1,4 +1,4 @@
-#include "BlockProcessor.hpp"
+#include "blockProcessor.hpp"
 
 std::vector<uint64_t> BlockProcessor::textToBlocks(const std::string& txt) {
     std::string paddedText = txt;
