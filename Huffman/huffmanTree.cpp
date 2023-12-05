@@ -1,7 +1,7 @@
 #ifndef HUFFMANTREE_H
 #define HUFFMANTREE_H
 
-#include "TreeNode.hpp"
+#include "treeNode.hpp"
 #include <string>
 #include <unordered_map>
 
