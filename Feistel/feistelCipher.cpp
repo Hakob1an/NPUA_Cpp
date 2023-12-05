@@ -1,4 +1,4 @@
-#include "FeistelCipher.hpp"
+#include "feistelCipher.hpp"
 
 uint32_t FeistelCipher::roundFunction(uint32_t right, uint64_t key) {
     return right ^ static_cast<uint32_t>(key);
