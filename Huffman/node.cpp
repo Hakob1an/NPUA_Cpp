@@ -1,4 +1,4 @@
-#include "TreeNode.hpp"
+#include "node.hpp"
 
 TreeNode::TreeNode(char symbol, int freq): m_symbol{symbol}, m_frequency{freq}, m_left{nullptr}, m_right{nullptr} {}
 
