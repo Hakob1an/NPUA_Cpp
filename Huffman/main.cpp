@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "HuffmanTree.hpp"
+#include "huffmanTree.hpp"
 
 int main() {
     HuffmanTree myTree;
