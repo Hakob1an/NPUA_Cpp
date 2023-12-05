@@ -1,6 +1,6 @@
 #include <iostream>
-#include "FeistelCipher.hpp"
-#include "BlockProcessor.hpp"
+#include "feistelCipher.hpp"
+#include "blockProcessor.hpp"
 
 int main() {
     std::string plaintext {"London is the capital of Great Britain"};
